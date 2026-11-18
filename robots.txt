@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://viacheslavdi.github.io/flipcomb/sitemap.xml
